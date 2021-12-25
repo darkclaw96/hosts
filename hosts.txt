@@ -2,7 +2,7 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 graph.fbpigeon.com
 0.0.0.0 b-graph.facebook.com
-0.0.0.0 
+0.0.0.0 adlutb.com
 0.0.0.0 
 0.0.0.0 
 0.0.0.0 
