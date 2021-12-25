@@ -1,4 +1,4 @@
-graph.facebook.com
-graph.instagram.com
-graph.fbpigeon.com
-b-graph.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 b-graph.facebook0.0.0.0 .com
