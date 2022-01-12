@@ -3,3 +3,10 @@ graph.instagram.com
 graph.fbpigeon.com
 b-graph.facebook.com
 adlutb.com
+data.osdknw.com
+app.jubnaadserve.com
+static.jubnaadserve.com
+cdn.optimizely.com
+outcome-ssp.supersonicads.com
+settings-win.data.microsoft.com
+graph.microsoft.com
