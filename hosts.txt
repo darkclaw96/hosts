@@ -2,6 +2,9 @@ graph.facebook.com
 graph.instagram.com
 graph.fbpigeon.com
 b-graph.facebook.com
+connect.facebook.net
+mqtt-mini.facebook.com
+edge-mqtt.facebook.com
 adlutb.com
 data.osdknw.com
 app.jubnaadserve.com
